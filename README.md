@@ -61,4 +61,5 @@
    Subject:
    * Linked VS Code to Github 
    * Created progress-checkins Readme on Github
+   * Took an HTML assessment on LinkedIn and earning a badge
 
