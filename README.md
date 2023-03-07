@@ -44,3 +44,7 @@
     * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
     * CSS
     * HTML
+## March 6, 2023
+1. Freecodecamp
+   * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline.
+   * Bought a ticket to 200OK conference on May 12, 2023
