@@ -54,3 +54,11 @@
    Subject:
    * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline.
    * Bought a ticket to 200OK conference on May 12, 2023
+
+## March 7, 2023
+1. Github/VS Code
+   
+   Subject:
+   * Linked VS Code to Github 
+   * Created progress-checkins Readme on Github
+
