@@ -26,6 +26,11 @@
        Aug 09 - ~September 2
        Real-world project where you apply all you have learned
        
+## March 2, 2023
+1. Github
+   * Updated my Github profile
+   * Created a Readme for my profile
+       
 ## March 4, 2023
 1. Finished my first in-person class with OKCoders.  This class was 2hrs.
    Subjects:
