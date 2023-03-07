@@ -35,6 +35,7 @@
        
 ## March 4, 2023
 1. Finished my first in-person class with OKCoders.  This class was 2hrs.
+   
    Subjects:
    * HTML
    * Visual Studio and using extensions like live server, Auto close tag, Prettier, and auto rename tag
@@ -42,11 +43,14 @@
    
 ## March 5, 2023
 1.  Finished my Homework_week_2 and posted it on Github
+    
     Subject:
     * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
     * CSS
     * HTML
 ## March 6, 2023
 1. Freecodecamp
+   
+   Subject:
    * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline.
    * Bought a ticket to 200OK conference on May 12, 2023
