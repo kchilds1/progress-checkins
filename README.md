@@ -37,3 +37,10 @@
    * HTML
    * Visual Studio and using extensions like live server, Auto close tag, Prettier, and auto rename tag
    * recieved homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+   
+## March 5, 2023
+1.  Finished my Homework_week_2 and posted it on Github
+    Subject:
+    * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+    * CSS
+    * HTML
