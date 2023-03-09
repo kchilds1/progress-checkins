@@ -52,7 +52,7 @@
 1. Freecodecamp
    
    Subject:
-   * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline.
+   * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline
    * Bought a ticket to 200OK conference on May 12, 2023
 
 ## March 7, 2023
@@ -62,4 +62,44 @@
    * Linked VS Code to Github 
    * Created progress-checkins Readme on Github
    * Took an HTML assessment on LinkedIn and earning a badge
+   
+## March 8, 2023
+1. Freecodecamp and OKCoders class
+
+  Subject:
+  * freecodecamp.org step 89 of learn CSS Variables by building a city skyline
+  * Module 1 Day-3 intro to CSS: understanding the following:
+  - ID
+- Class
+- Element
+- All (\*)
+- Where to hold CSS styles
+- in-line styles
+- style tag
+- css file
+- Common properties
+- width
+- height
+- background-color
+- font-size
+- margin
+- padding
+- Units
+- px (most basic unit)
+- rem (relative to the html elements font size)
+- em (relative to the parents font size)
+- % (relative to the parent element)
+- vw (1% of the view width)
+- vh (1% of the view height)
+- Selectors
+- Apply styles to all that match (comma separated).
+- ex: class1, class2 { ... }
+- Apply styles to all that match and have a matching child (space separated).
+- ex: class1 class2 { ... }
+- Apply styles to all that match each (no space).
+- ex: .class1.class2 { ... }
+- Pseudo Class
+- focus
+- hover
+
 
