@@ -102,4 +102,8 @@
 - focus
 - hover
 
+## March 9, 2023
+1. Freecodecamp and OKCoders homework
+   * Finished "Learn HTML Forms by Building a Registration form" on freecodecamp.org as OKCoders homework before class on March 11th.
+
 
