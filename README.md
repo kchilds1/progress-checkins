@@ -1,6 +1,7 @@
 ### progress-checkins
 ## March 1, 2023 
-1. Attended my first virtual class with OKCoders.  This class was 1 hr.
+
+   Subject: Attended my first virtual class with OKCoders.  This class was 1 hr.
    Instructors told us about the 6 modules we will cover over the course (note: these dates are incorrect due to course starting on March 1st instead of February 15):
      * Module 1: Intro to Web Design
        February 15 - March 11
@@ -27,46 +28,40 @@
        Real-world project where you apply all you have learned
        
 ## March 2, 2023
-1. Github
-   
-   Subject:
+
+   Subject: Github
    * Updated my Github profile
    * Created a Readme for my profile
        
 ## March 4, 2023
-1. Finished my first in-person class with OKCoders.  This class was 2hrs.
-   
-   Subjects:
+
+   Subjects: Finished my first in-person class with OKCoders.  This class was 2hrs.
    * HTML
    * Visual Studio and using extensions like live server, Auto close tag, Prettier, and auto rename tag
    * recieved homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
    
 ## March 5, 2023
-1.  Finished my Homework_week_2 and posted it on Github
     
-    Subject:
+    Subject: Finished my Homework_week_2 and posted it on Github
     * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
     * CSS
     * HTML
 ## March 6, 2023
-1. Freecodecamp
    
-   Subject:
+   Subject: Freecodecamp
    * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline
    * Bought a ticket to 200OK conference on May 12, 2023
 
 ## March 7, 2023
-1. Github/VS Code
    
-   Subject:
+   Subject: Github/VS Code
    * Linked VS Code to Github 
    * Created progress-checkins Readme on Github
    * Took an HTML assessment on LinkedIn and earning a badge
    
 ## March 8, 2023
-1. Freecodecamp and OKCoders class
 
-  Subject:
+  Subject: Freecodecamp and OKCoders class
   * freecodecamp.org step 89 of learn CSS Variables by building a city skyline
   * Module 1 Day-3 intro to CSS: understanding the following:
   - ID
@@ -103,11 +98,13 @@
 - hover
 
 ## March 9, 2023
-1. Freecodecamp and OKCoders homework
+
+   Subject: Freecodecamp and OKCoders homework
    * Finished "Learn HTML Forms by Building a Registration form" on freecodecamp.org as OKCoders homework before class on March 11th.
    * Attempted to make my code look like the "Sip and listen to The Starbucks® Daily" on https://www.starbucks.com/
 
 ##  March 11, 2023
-1. Freecodecamp and OKCoders Saturday class Module_1_day_4
+
+   Subject: Freecodecamp and OKCoders Saturday class Module_1_day_4
    * 4hr OKCoders course Module_1_day_4 (write html and css attempting to make code look like https://elementalcoffee.com/contact/)
    * Started homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1
