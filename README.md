@@ -109,5 +109,5 @@
 
 ##  March 11, 2023
 1. Freecodecamp and OKCoders Saturday class Module_1_day_4
-   * 4hr OKCoders course Module_1_day_4 (copy html and css to make code look like https://elementalcoffee.com/contact/)
+   * 4hr OKCoders course Module_1_day_4 (write html and css attempting to make code look like https://elementalcoffee.com/contact/)
    * Started homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1
