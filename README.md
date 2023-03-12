@@ -107,7 +107,7 @@
    * Finished "Learn HTML Forms by Building a Registration form" on freecodecamp.org as OKCoders homework before class on March 11th.
    * Attempted to make my code look like the "Sip and listen to The Starbucks® Daily" on https://www.starbucks.com/
 
-##March 11, 2023
+##  March 11, 2023
 1. Freecodecamp and OKCoders Saturday class Module_1_day_4
    * 4hr OKCoders course Module_1_day_4 (copy html and css to make code look like https://elementalcoffee.com/contact/)
    * Started homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1
