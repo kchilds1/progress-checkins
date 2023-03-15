@@ -121,3 +121,9 @@
    Subject: FreecodeCamp (HTML and CSS)
    * Learn the CSS Box Model by Building a Rothko Painting (OKCoders homework)
    
+## March 15, 2023
+   
+   Subject: OKCoders Class and freecodecamp homework
+   * Homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1
+     https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
+   
