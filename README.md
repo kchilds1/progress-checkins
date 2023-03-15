@@ -9,25 +9,25 @@
      February 15 - March 11
      HTML, CSS
 
-     * Module 2: Intro to Programming
-       March 22- April 15
-       JavaScript
+   * Module 2: Intro to Programming
+     March 22- April 15
+     JavaScript
 
-     * Module 3: Intro to Programming II
-       April 26 - May 20
-       JavaScript cont'd
+   * Module 3: Intro to Programming II
+     April 26 - May 20
+     JavaScript cont'd
 
-     * Module 4: Into to Web Apps
-       May 31 - June 24
-       React
+   * Module 4: Into to Web Apps
+     May 31 - June 24
+     React
 
-     * Module 5: Intro to Back End Programming
-       July 5- July 29
-       MongoDB, Express, Mongoose
+   * Module 5: Intro to Back End Programming
+     July 5- July 29
+     MongoDB, Express, Mongoose
 
-     * Module 6: Capstone Project
-       Aug 09 - ~September 2
-       Real-world project where you apply all you have learned
+   * Module 6: Capstone Project
+     Aug 09 - ~September 2
+     Real-world project where you apply all you have learned
        
 ## March 2, 2023
 
