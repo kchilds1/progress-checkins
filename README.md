@@ -44,10 +44,10 @@
    
 ## March 5, 2023
     
-    Subject: Finished my Homework_week_2 and posted it on Github
-    * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
-    * CSS
-    * HTML
+   Subject: Finished my Homework_week_2 and posted it on Github
+   * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+   * CSS
+   * HTML
 ## March 6, 2023
    
    Subject: Freecodecamp
