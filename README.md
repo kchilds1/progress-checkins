@@ -119,5 +119,5 @@
 ## March 14, 2023
 
    Subject: FreecodeCamp (HTML and CSS)
-   * Learn the CSS Box Model by Building a Rothko Painting
+   * Learn the CSS Box Model by Building a Rothko Painting (OKCoders homework)
    
