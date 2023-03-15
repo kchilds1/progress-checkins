@@ -1,12 +1,13 @@
 ### progress-checkins
+
 ## March 1, 2023 
 
    Subject: Attended my first virtual class with OKCoders.  This class was 1 hr.
    Instructors told us about the 6 modules we will cover over the course (note: these dates are incorrect due to course starting on March 1st instead of February 15):
    
-     * Module 1: Intro to Web Design
-       February 15 - March 11
-       HTML, CSS
+   * Module 1: Intro to Web Design
+     February 15 - March 11
+     HTML, CSS
 
      * Module 2: Intro to Programming
        March 22- April 15
