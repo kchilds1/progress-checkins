@@ -131,5 +131,4 @@
 ## March 16, 2023
  
    Subject: OKCoders Homework on freecodecamp
-   *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-         intermediate-css-by-building-a-picasso-painting/step-1
-   
+   *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
