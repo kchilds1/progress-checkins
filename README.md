@@ -128,3 +128,8 @@
    * Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1
    * Started homework:  https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
    
+## March 16, 2023
+ 
+   Subject: OKCoders Homework on freecodecamp
+   *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-         intermediate-css-by-building-a-picasso-painting/step-1
+   
