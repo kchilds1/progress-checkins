@@ -132,3 +132,9 @@
  
    Subject: OKCoders Homework on freecodecamp
    *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
+   
+## March 18, 2023
+
+   Subject: OKCoders Saturday class
+   *  Went over flex in CSS
+   
