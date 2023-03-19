@@ -138,6 +138,7 @@
    Subject: OKCoders Saturday class
    *  Went over flex in CSS
  
- ##March 19, 2023
+ ## March 19, 2023
+ 
    Subject: Review recording of OKCoders class
    *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording.
