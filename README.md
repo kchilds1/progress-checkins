@@ -124,7 +124,7 @@
 ## March 15, 2023
    
    Subject: OKCoders Class and freecodecamp homework
-   * 1 hr class on box models
+   * 1 hr class on box models (Day-5)
    * Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1
    * Started homework:  https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
    
@@ -137,4 +137,7 @@
 
    Subject: OKCoders Saturday class
    *  Went over flex in CSS
-   
+ 
+ ##March 19, 2023
+   Subject: Review recording of OKCoders class
+   *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording.
