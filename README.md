@@ -36,7 +36,7 @@
 ## March 13, 2023
 
   Subject: OKCoders Saturday class Module_1_day_4 html and css
-  * continue writing html and css attempting to make code look like https://elementalcoffee.com/contact
+  * Continue writing html and css attempting to make code look like https://elementalcoffee.com/contact
   
 ##  March 11, 2023
 
