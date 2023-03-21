@@ -142,3 +142,9 @@
  
    Subject: Review recording of OKCoders class
    *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording.
+   
+## March 20, 2023
+
+   Subject: Review recording of OKCoders class and homework on freecodecamp
+   *  Practice exercise provided by OKCoders day 6 flexbox
+   *  Started for OKCoders homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1
