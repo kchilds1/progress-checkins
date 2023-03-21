@@ -1,65 +1,54 @@
 ### progress-checkins
+     
+## March 20, 2023
 
-## March 1, 2023 
-
-   Subject: Attended my first virtual class with OKCoders.  This class was 1 hr.
-   Instructors told us about the 6 modules we will cover over the course (note: these dates are incorrect due to course starting on March 1st instead of February 15):
+   Subject: Review recording of OKCoders class and homework on freecodecamp
+   *  Practice exercise provided by OKCoders day 6 flexbox
+   *  Started for OKCoders homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1
+   *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording
    
-   * Module 1: Intro to Web Design
-     February 15 - March 11
-     HTML, CSS
+## March 19, 2023
+ 
+   Subject: Review recording of OKCoders class
 
-   * Module 2: Intro to Programming
-     March 22- April 15
-     JavaScript
+## March 18, 2023
 
-   * Module 3: Intro to Programming II
-     April 26 - May 20
-     JavaScript cont'd
-
-   * Module 4: Into to Web Apps
-     May 31 - June 24
-     React
-
-   * Module 5: Intro to Back End Programming
-     July 5- July 29
-     MongoDB, Express, Mongoose
-
-   * Module 6: Capstone Project
-     Aug 09 - ~September 2
-     Real-world project where you apply all you have learned
-       
-## March 2, 2023
-
-   Subject: Github
-   * Updated my Github profile
-   * Created a Readme for my profile
-       
-## March 4, 2023
-
-   Subjects: Finished my first in-person class with OKCoders.  This class was 2hrs.
-   * HTML
-   * Visual Studio and using extensions like live server, Auto close tag, Prettier, and auto rename tag
-   * recieved homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+   Subject: OKCoders Saturday class
+   *  Went over flex in CSS
    
-## March 5, 2023
-    
-   Subject: Finished my Homework_week_2 and posted it on Github
-   * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
-   * CSS
-   * HTML
-## March 6, 2023
+## March 16, 2023
+ 
+   Subject: OKCoders Homework on freecodecamp
+   *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
    
-   Subject: Freecodecamp
-   * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline
-   * Bought a ticket to 200OK conference on May 12, 2023
+## March 15, 2023
+   
+   Subject: OKCoders Class and freecodecamp homework
+   * 1 hr class on box models (Day-5)
+   * Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1
+   * Started homework:  https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
+   
+## March 14, 2023
 
-## March 7, 2023
+   Subject: FreecodeCamp (HTML and CSS)
+   * Learn the CSS Box Model by Building a Rothko Painting (OKCoders homework)
    
-   Subject: Github/VS Code
-   * Linked VS Code to Github 
-   * Created progress-checkins Readme on Github
-   * Took an HTML assessment on LinkedIn and earning a badge
+## March 13, 2023
+
+  Subject: OKCoders Saturday class Module_1_day_4 html and css
+  * continue writing html and css attempting to make code look like https://elementalcoffee.com/contact
+  
+##  March 11, 2023
+
+   Subject: Freecodecamp and OKCoders Saturday class Module_1_day_4
+   * 4hr OKCoders course Module_1_day_4 (write html and css attempting to make code look like https://elementalcoffee.com/contact/)
+   * Started homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1
+   
+## March 9, 2023
+
+   Subject: Freecodecamp and OKCoders homework
+   * Finished "Learn HTML Forms by Building a Registration form" on freecodecamp.org as OKCoders homework before class on March 11th.
+   * Attempted to make my code look like the "Sip and listen to The Starbucks® Daily" on https://www.starbucks.com/
    
 ## March 8, 2023
 
@@ -99,52 +88,64 @@
 - focus
 - hover
 
-## March 9, 2023
-
-   Subject: Freecodecamp and OKCoders homework
-   * Finished "Learn HTML Forms by Building a Registration form" on freecodecamp.org as OKCoders homework before class on March 11th.
-   * Attempted to make my code look like the "Sip and listen to The Starbucks® Daily" on https://www.starbucks.com/
-
-##  March 11, 2023
-
-   Subject: Freecodecamp and OKCoders Saturday class Module_1_day_4
-   * 4hr OKCoders course Module_1_day_4 (write html and css attempting to make code look like https://elementalcoffee.com/contact/)
-   * Started homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-the-css-box-model-by-building-a-rothko-painting/step-1
+## March 7, 2023
    
-## March 13, 2023
+   Subject: Github/VS Code
+   * Linked VS Code to Github 
+   * Created progress-checkins Readme on Github
+   * Took an HTML assessment on LinkedIn and earning a badge
+   
+## March 6, 2023
+   
+   Subject: Freecodecamp
+   * Resumed where I left off on https://www.freecodecamp.org/ step 78 of learn CSS Variables by building a city skyline
+   * Bought a ticket to 200OK conference on May 12, 2023
+   
+## March 5, 2023
+    
+   Subject: Finished my Homework_week_2 and posted it on Github
+   * homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+   * CSS
+   * HTML
+   
+## March 4, 2023
 
-  Subject: OKCoders Saturday class Module_1_day_4 html and css
-  * continue writing html and css attempting to make code look like https://elementalcoffee.com/contact
-  
-## March 14, 2023
+   Subjects: Finished my first in-person class with OKCoders.  This class was 2hrs.
+   * HTML
+   * Visual Studio and using extensions like live server, Auto close tag, Prettier, and auto rename tag
+   * recieved homework assignment "Learn basic CSS by Building a Café Menu" found on https://www.freecodecamp.org/
+   
+## March 2, 2023
 
-   Subject: FreecodeCamp (HTML and CSS)
-   * Learn the CSS Box Model by Building a Rothko Painting (OKCoders homework)
+   Subject: Github
+   * Updated my Github profile
+   * Created a Readme for my profile
    
-## March 15, 2023
-   
-   Subject: OKCoders Class and freecodecamp homework
-   * 1 hr class on box models (Day-5)
-   * Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-1
-   * Started homework:  https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
-   
-## March 16, 2023
- 
-   Subject: OKCoders Homework on freecodecamp
-   *  Finished homework: https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-intermediate-css-by-building-a-picasso-painting/step-1
-   
-## March 18, 2023
+## March 1, 2023 
 
-   Subject: OKCoders Saturday class
-   *  Went over flex in CSS
- 
- ## March 19, 2023
- 
-   Subject: Review recording of OKCoders class
-   *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording.
+   Subject: Attended my first virtual class with OKCoders.  This class was 1 hr.
+   Instructors told us about the 6 modules we will cover over the course (note: these dates are incorrect due to course starting on March 1st instead of February 15):
    
-## March 20, 2023
+   * Module 1: Intro to Web Design
+     February 15 - March 11
+     HTML, CSS
 
-   Subject: Review recording of OKCoders class and homework on freecodecamp
-   *  Practice exercise provided by OKCoders day 6 flexbox
-   *  Started for OKCoders homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1
+   * Module 2: Intro to Programming
+     March 22- April 15
+     JavaScript
+
+   * Module 3: Intro to Programming II
+     April 26 - May 20
+     JavaScript cont'd
+
+   * Module 4: Into to Web Apps
+     May 31 - June 24
+     React
+
+   * Module 5: Intro to Back End Programming
+     July 5- July 29
+     MongoDB, Express, Mongoose
+
+   * Module 6: Capstone Project
+     Aug 09 - ~September 2
+     Real-world project where you apply all you have learned
