@@ -1,4 +1,9 @@
 ### progress-checkins
+
+## March 21, 2023
+   
+   Subject: OKCoders homework
+   * Finished OKCoders homework on https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1
      
 ## March 20, 2023
 
