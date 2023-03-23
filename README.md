@@ -5,6 +5,7 @@
    * Discussed shortcuts to navigate between windows faster while using one computer
    * I was having issues with my code's flex-wrap that was corrected by using flex auto in CSS in order to have my first child div to match all the other div between the parent.
    * Added flex-shrink=0; in order to keep the text from shrinking when adjusting the screen size
+   * Was provide https://css-tricks.com/snippets/css/a-guide-to-flexbox/ in order to sharpen my skills with CSS properties
 
 ## March 22, 2023
 
