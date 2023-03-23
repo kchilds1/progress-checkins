@@ -1,5 +1,11 @@
 ### progress-checkins
 
+## March 23, 2023
+   Subject: Talked to Mentor for 30 minutes
+   * Discussed shortcuts to navigate between windows faster while using one computer
+   * I was having issues with my code's flex-wrap that was corrected by using flex auto in CSS in order to have my first child div to match all the other div between the parent.
+   * Added flex-shrink=0; in order to keep the text from shrinking when adjusting the screen size
+
 ## March 22, 2023
 
    Subject: OKCoders and VSCode
@@ -17,6 +23,7 @@
    *  Practice exercise provided by OKCoders day 6 flexbox
    *  Started for OKCoders homework https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1
    *  Reviewed recording of OKCoders class about the box model while working in VS code along with the recording
+   *  Was provided a useful link that will help me sharpen my skills with CSS properties Link: https://css-tricks.com/snippets/css/a-guide-to-flexbox/ 
    
 ## March 19, 2023
  
