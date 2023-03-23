@@ -3,7 +3,7 @@
 ## March 22, 2023
 
    Subject: OKCoders and VSCode
-   * Attended Wednesday's bootcamp class for OKCoders
+   * Attended Wednesday's bootcamp class for OKCoders going over positioning and adding multiple html files
    * Replicated https://elementalcoffee.com/contact/ applying new information learned during class
 
 ## March 21, 2023
