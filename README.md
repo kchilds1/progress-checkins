@@ -1,5 +1,11 @@
 ### progress-checkins
 
+## March 22, 2023
+
+   Subject: OKCoders and VSCode
+   * Attended Wednesday's bootcamp class for OKCoders
+   * Replicated https://elementalcoffee.com/contact/ applying new information learned during class
+
 ## March 21, 2023
    
    Subject: OKCoders homework
