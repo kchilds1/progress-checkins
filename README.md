@@ -1,7 +1,7 @@
 ### progress-checkins
 
 ## March 23, 2023
-   Subject: Talked to Mentor for 30 minutes
+   Subject: Talked to Mentor for 30 minutes and reviewed OK Coders 2023: Module 1 Day 7 video
    * Discussed shortcuts to navigate between windows faster while using one computer
    * I was having issues with my code's flex-wrap that was corrected by using flex auto in CSS in order to have my first child div to match all the other div between the parent.
    * Added flex-shrink=0; in order to keep the text from shrinking when adjusting the screen size
