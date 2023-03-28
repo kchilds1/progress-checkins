@@ -1,4 +1,16 @@
 ### progress-checkins
+  
+## March 26, 2023
+   Subject: OKCoders project
+   *  Since I wasn't able to finish the project on Saturday, I decided to continue building the site for practice
+
+## March 25, 2023
+  Subject: OKCoders project
+  * Atended Saturday's in person class and began our final project to build a website
+
+## March 24, 2023
+   Subject: HTML and CSS
+   * Review what we went over in class prepairing myself for Module 1 final project.
 
 ## March 23, 2023
    Subject: Talked to Mentor for 30 minutes and reviewed OK Coders 2023: Module 1 Day 7 video
