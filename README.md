@@ -1,5 +1,10 @@
 ### progress-checkins
 
+## March 31, 2023
+   Subject: CSS Grids
+   * Started Learn CSS Grid by Building a Magazine on https://www.freecodecamp.org
+   * Continuing to Look at https://www.hardees.com/full-menu and write HTML and CSS attempting to make my code mirror this Hardee's site
+
 ##  March 30, 2023
     Subject: Practice HTML and CSS
     *  Looked at https://www.hardees.com/full-menu and wrote HTML and CSS attempting to make my code mirror this Hardee's site
