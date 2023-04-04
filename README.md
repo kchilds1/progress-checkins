@@ -1,7 +1,7 @@
 ### progress-checkins
 
 ## April 3, 2023
-   Subject: Module 2: Intro to Javascript. Pre-Work For Day 1
+   Subject: Module 2: Intro to Javascript. Pre-Work For Day 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
    * Comment Your JavaScript Code
    * Declare JavaScript Variables
    * Storing Values with the Assignment Operator
