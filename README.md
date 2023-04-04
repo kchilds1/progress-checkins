@@ -1,5 +1,10 @@
 ### progress-checkins
 
+## April 4, 2023
+   Subject: Free Code Camp HTML and CSS
+   * Started and finished https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel
+   * Started https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1 in Free Code Camp
+
 ## April 3, 2023
    Subject: Module 2: Intro to Javascript. Pre-Work For Day 1. https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
    * Comment Your JavaScript Code
