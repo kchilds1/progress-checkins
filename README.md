@@ -1,5 +1,28 @@
 ### progress-checkins
 
+## April 3, 2023
+   Subject: Module 2: Intro to Javascript. Pre-Work For Day 1
+   * Comment Your JavaScript Code
+   * Declare JavaScript Variables
+   * Storing Values with the Assignment Operator
+   * Assigning the Value of One Variable to Another
+   * Initializing Variables with the Assignment Operator
+   * Declare String Variables
+   * Understanding Uninitialized Variables
+   * Understanding Case Sensitivity in Variables
+   * Explore Differences Between the var and let Keywords
+   * Declare a Read-Only Variable with the const Keyword
+   * Add Two Numbers with JavaScript
+   * Subtract One Number from Another with JavaScript
+   * Multiply Two Numbers with JavaScript
+   * Divide One Number by Another with JavaScript
+   * Increment a Number with JavaScript
+   * Decrement a Number with JavaScript
+   * Create Decimal Numbers with JavaScript
+   * Multiply Two Decimals with JavaScript
+   * Divide One Decimal by Another with JavaScript
+   * Finding a Remainder in JavaScript
+   
 ## March 31, 2023
    Subject: CSS Grids
    * Started Learn CSS Grid by Building a Magazine on https://www.freecodecamp.org
