@@ -1,10 +1,11 @@
 ### progress-checkins
 
 ## April 5, 2023
-   Subject: OK Coders Class
+   Subject: OK Coders Class and Free Code Camp
    *  Writing expressions in JS
    *  Creating variables in JS
    *  Introduction to JavaScript APIs
+   *  Continued Learn CSS Transforms by Building a Penguin leaving off on https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-104
 
 ## April 4, 2023
    Subject: Free Code Camp HTML and CSS
