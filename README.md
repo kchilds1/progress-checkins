@@ -1,5 +1,11 @@
 ### progress-checkins
 
+## April 5, 2023
+   Subject: OK Coders Class
+   *  Writing expressions in JS
+   *  Creating variables in JS
+   *  Introduction to JavaScript APIs
+
 ## April 4, 2023
    Subject: Free Code Camp HTML and CSS
    * Started and finished https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-animation-by-building-a-ferris-wheel
