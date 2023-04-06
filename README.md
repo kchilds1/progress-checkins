@@ -5,7 +5,7 @@
    *  Writing expressions in JS
    *  Creating variables in JS
    *  Introduction to JavaScript APIs
-   *  Finished Learn CSS Transforms by Building a Penguin leaving off at https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin
+   *  Finished Learn CSS Transforms by Building a Penguin leaving off at https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-transforms-by-building-a-penguin/step-1
 
 ## April 4, 2023
    Subject: Free Code Camp HTML and CSS
