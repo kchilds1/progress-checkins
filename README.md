@@ -1,5 +1,37 @@
 ### progress-checkins
 
+## April 6, 2023
+   Subject: OK Coders homework
+   *  Homework found on FreeCodeCamp.orq
+   *  Compound Assignment With Augmented Addition
+   *  Compound Assignment With Augmented Subtraction
+   *  Compound Assignment With Augmented Multiplication
+   *  Compound Assignment With Augmented Division
+   *  Escaping Literal Quotes in Strings
+   *  Quoting Strings with Single Quotes
+   *  Escape Sequences in Strings
+   *  Concatenating Strings with Plus Operator
+   *  Concatenating Strings with the Plus Equals Operator
+   *  Constructing Strings with Variables
+   *  Appending Variables to Strings
+   *  Find the Length of a String
+   *  Use Bracket Notation to Find the First Character in a String
+   *  Understand String Immutability
+   *  Use Bracket Notation to Find the Nth Character in a String
+   *  Use Bracket Notation to Find the Last Character in a String
+   *  Use Bracket Notation to Find the Nth-to-Last Character in a String
+   *  Word Blanks
+   *  Store Multiple Values in one Variable using JavaScript Arrays
+   *  Nest one Array within Another Array
+   *  Access Array Data with Indexes
+   *  Modify Array Data With Indexes
+   *  Access Multi-Dimensional Arrays With Indexes
+   *  Manipulate Arrays With push Method
+   *  Manipulate Arrays With pop Method
+   *  Manipulate Arrays With shift Method
+   *  Manipulate Arrays With unshift Method
+   *  Shopping List
+
 ## April 5, 2023
    Subject: OK Coders Class and Free Code Camp
    *  Writing expressions in JS
