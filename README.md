@@ -1,7 +1,11 @@
 ### progress-checkins
 
+## April 7, 2023
+   Subject: Free code camp
+   *  Review Pre-Work For Day 1 and Day 2
+
 ## April 6, 2023
-   Subject: OK Coders homework
+   Subject: OK Coders homework (Pre-Work For Day 2)
    *  Earned my Developer Certification for Responsive Web Design from FreeCodeCamp and added it to my LinkedIn profile
    *  Homework found on FreeCodeCamp.orq
    *  Compound Assignment With Augmented Addition
