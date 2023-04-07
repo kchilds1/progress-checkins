@@ -2,6 +2,7 @@
 
 ## April 6, 2023
    Subject: OK Coders homework
+   *  Earned my Developer Certification for Responsive Web Design from FreeCodeCamp and added it to my LinkedIn profile
    *  Homework found on FreeCodeCamp.orq
    *  Compound Assignment With Augmented Addition
    *  Compound Assignment With Augmented Subtraction
