@@ -1,5 +1,13 @@
 ### progress-checkins
-
+## April 10, 2023
+   Subject: Ok Coders homework and Module 2 Day 2 class exercise
+   *  Finished bottles of beer on the wall game as the Day 2 exercise
+   *  Started pre-work homework for day 3
+   
+## April 8, 2023
+   Subject: Ok Coders
+   *  Two hour boatcamp class about arrays, basic math, and strings with JavaScript
+   
 ## April 7, 2023
    Subject: Free code camp
    *  Review Pre-Work For Day 1 and Day 2
