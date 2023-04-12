@@ -1,4 +1,17 @@
 ### progress-checkins
+
+## April 11, 2023
+   Subject: Completed pre-work homework for day 3
+   *  Write Reusable JavaScript with Functions
+   *  Passing Values to Functions with Arguments
+   *  Return a Value from a Function with Return
+   *  Global Scope and Functions
+   *  Local Scope and Functions
+   *  Global vs. Local Scope in Functions
+   *  Understanding Undefined Value returned from a Function
+   *  Assignment with a Returned Value
+   *  Stand in Line
+   
 ## April 10, 2023
    Subject: Ok Coders homework and Module 2 Day 2 class exercise
    *  Finished bottles of beer on the wall game as the Day 2 exercise
