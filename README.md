@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## April 13, 2023
+   Subject: pre-work homework for day 4
+   *  Started - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
+
 ## April 12, 2023
    Subject: OK Coders class
    *  JavaScript functions
