@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## April 12, 2023
+   Subject: OK Coders class
+   *  JavaScript functions
+
 ## April 11, 2023
    Subject: Completed pre-work homework for day 3
    *  Write Reusable JavaScript with Functions
