@@ -27,7 +27,7 @@
    
 ## April 8, 2023
    Subject: Ok Coders
-   *  Two hour boatcamp class about arrays, basic math, and strings with JavaScript
+   *  Two hour bootcamp class about arrays, basic math, and strings with JavaScript
    
 ## April 7, 2023
    Subject: Free code camp
