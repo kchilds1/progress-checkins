@@ -1,5 +1,10 @@
 ### progress-checkins
 
+## April 14, 2023
+   Subject: Pre-work for day 4
+   *  Finished - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
+   *  Reviewed basic JavaScript on freecodecamp.org and apply my knowledge in creating a To-do list
+
 ## April 13, 2023
    Subject: pre-work homework for day 4
    *  Started - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
