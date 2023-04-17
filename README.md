@@ -1,5 +1,24 @@
 ### progress-checkins
 
+## April 17, 2023
+   Subject: class project and Freecode camp homework
+   * Created cart page for website
+   * Pre-Work For Day 5
+Understanding Boolean Values
+Use Conditional Logic with If Statements
+Comparison with the Equality Operator
+Comparison with the Strict Equality Operator
+Practice comparing different values
+Comparison with the Inequality Operator
+Comparison with the Strict Inequality Operator
+Comparison with the Greater Than Operator
+Comparison with the Greater Than Or Equal To Operator
+
+## April 15, 2023
+   Subject: OK Coders class JavaScript
+   * Created login for website
+   * Added items to cart
+
 ## April 14, 2023
    Subject: Pre-work for day 4
    *  Finished - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
