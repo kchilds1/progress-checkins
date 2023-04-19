@@ -1,5 +1,10 @@
 ### progress-checkins
 
+## April 18, 2023
+  Subject: Continued Saturday's class project
+  * Created a new menu page using JavaScript. Used Free Code Camp Build a Shopping Cart with JavaScript-Project Tutorial as an online resource
+  * Started creating a new cart for Saturday's project
+
 ## April 17, 2023
    Subject: Saturday's class project and Pre-Work For Day 5
    * Created cart page for website
