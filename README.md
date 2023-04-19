@@ -2,7 +2,7 @@
 
 ## April 18, 2023
   Subject: Continued Saturday's class project
-  * Created a new menu page using JavaScript. Used Free Code Camp Build a Shopping Cart with JavaScript-Project Tutorial as an online resource
+  * Created a new menu page using JavaScript. Used Free Code Camp [Build a Shopping Cart with JavaScript-Project Tutorial](https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/) as an online resource
   * Started creating a new cart for Saturday's project
 
 ## April 17, 2023
