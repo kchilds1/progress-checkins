@@ -1,5 +1,13 @@
 ### progress-checkins
 
+## April 20, 2023
+   Subject: Meeting with mentor and finish shopping cart
+   * Best practices while coding
+   * ES6 functions
+   * process used when giving client a finished product
+   * CSS Grid
+   * How to stay signed into site after moving to new web page or refreshing
+
 ## April 19, 2023
    Subject: OK Coders class
    * Building a Shopping Cart with JavaScript
