@@ -1,5 +1,11 @@
 ### progress-checkins
 
+## April 19, 2023
+   Subject: OK Coders class
+   * Building a Shopping Cart with JavaScript
+   * Review over Day 5 Pre-Work
+   * FizzBuzz exercise
+   
 ## April 18, 2023
   Subject: Continued Saturday's class project
   * Created a new menu page using JavaScript. Used Free Code Camp [Build a Shopping Cart with JavaScript-Project Tutorial](https://www.freecodecamp.org/news/code-a-shopping-cart-with-javascript/) as an online resource
