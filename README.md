@@ -4,6 +4,7 @@
    Subject: OK Coders class
    * Building a Shopping Cart with JavaScript
    * Review over Day 5 Pre-Work
+   * Went over https://content.codecademy.com/practice/art-for-practice/new-pngs/Boolean-operators-dk.png
    * FizzBuzz exercise
    
 ## April 18, 2023
