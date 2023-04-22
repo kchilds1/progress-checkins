@@ -1,5 +1,14 @@
 ### progress-checkins
 
+##April 22, 2023
+  Subject: OK Coders Class
+  * Add/remove objects
+  * Add/remove array
+  * Accessing Nested Objects
+  * Accessing Nested Arrays
+  * Review bottles of beer exercise
+  * Introducted to ChatGPT for assistance writing code
+  
 ## April 21, 2023
    Subject:  Homework Pre-Work For Day 6
    * Build JavaScript Objects
@@ -9,13 +18,13 @@
    * Updating Object Properties
    * Add New Properties to a JavaScript Object
    * Delete Properties from a JavaScript Object
-Using Objects for Lookups
-Testing Objects for Properties
-Manipulating Complex Objects
-Accessing Nested Objects
-Accessing Nested Arrays
-Not Passed
-Record Collection
+   * Using Objects for Lookups
+   * Testing Objects for Properties
+   * Manipulating Complex Objects
+   * Accessing Nested Objects
+   * Accessing Nested Arrays
+   * Not Passed
+   * Record Collection
 ## April 20, 2023
    Subject: Meeting with mentor and finish shopping cart
    * Best practices while coding
