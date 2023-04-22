@@ -1,5 +1,21 @@
 ### progress-checkins
 
+## April 21, 2023
+   Subject:  Homework Pre-Work For Day 6
+   * Build JavaScript Objects
+   * Accessing Object Properties with Dot Notation
+   * Accessing Object Properties with Bracket Notation
+   * Accessing Object Properties with Variables
+   * Updating Object Properties
+   * Add New Properties to a JavaScript Object
+   * Delete Properties from a JavaScript Object
+Using Objects for Lookups
+Testing Objects for Properties
+Manipulating Complex Objects
+Accessing Nested Objects
+Accessing Nested Arrays
+Not Passed
+Record Collection
 ## April 20, 2023
    Subject: Meeting with mentor and finish shopping cart
    * Best practices while coding
