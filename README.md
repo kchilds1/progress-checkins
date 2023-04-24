@@ -1,5 +1,24 @@
 ### progress-checkins
 
+## April 23, 2023
+   Subject: OK Coders Pre-work for Day 6 and Day 7
+   * Finished Pre-work for Day 6 Record Collection
+   - Iterate with JavaScript While Loops
+   - Iterate with JavaScript For Loops
+   - Iterate Odd Numbers With a For Loop
+   - Count Backwards With a For Loop
+   - Iterate Through an Array with a For Loop
+   - Nesting For Loops
+   - Profile Lookup
+   - Generate Random Fractions with JavaScript
+   - Generate Random Whole Numbers with JavaScript
+   - Generate Random Whole Numbers within a Range
+  - Use the parseInt Function
+  - Use the parseInt Function with a Radix
+  - Use the Conditional (Ternary) Operator
+  - Use Multiple Conditional (Ternary) Operators
+
+
 ##April 22, 2023
   Subject: OK Coders Class
   * Add/remove objects
