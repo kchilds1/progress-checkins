@@ -18,9 +18,8 @@
   - Use the Conditional (Ternary) Operator
   - Use Multiple Conditional (Ternary) Operators
 
-
-##April 22, 2023
-  Subject: OK Coders Class
+## April 22, 2023
+   Subject: OK Coders Class
   * Add/remove objects
   * Add/remove array
   * Accessing Nested Objects
