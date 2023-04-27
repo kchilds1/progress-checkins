@@ -3,6 +3,7 @@
 ## April, 26, 2023
    Subject: OK Coders homework
    *  Finished FreeCodeCamp  Pre-work Day 7 homework
+   * OK Coders class over loops
 
 ## April 23, 2023
    Subject: OK Coders Pre-work for Day 6 and Day 7
