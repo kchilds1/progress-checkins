@@ -1,8 +1,12 @@
 ### progress-checkins
 
-## April, 26, 2023
+## April 29, 2023
+   Subject: OK Coders Day-8
+   * Created Coffee Shop 2.5 using dynamic JavaScript in Saturday's class
+
+## April 26, 2023
    Subject: OK Coders homework
-   *  Finished FreeCodeCamp  Pre-work Day 7 homework
+   * Finished FreeCodeCamp  Pre-work Day 7 homework
    * OK Coders class over loops
    * To do list project
 
