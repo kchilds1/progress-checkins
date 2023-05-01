@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## May 1, 2023
+   Subject: OK Coders 
+   * Completed  part 1 of Saturday's class and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
+
 ## April 29, 2023
    Subject: OK Coders Day-8
    * Created Coffee Shop 2.5 using dynamic JavaScript in Saturday's class
