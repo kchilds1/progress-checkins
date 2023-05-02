@@ -1,5 +1,8 @@
 ### progress-checkins
 
+## May 2, 2023
+   Subject: OK Coders
+   * Finished Saturday's class assignmenet and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
 ## May 1, 2023
    Subject: OK Coders 
    * Completed  part 1 of Saturday's class and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
