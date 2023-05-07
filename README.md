@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## May 5, 2023
+   Subject: Practice
+   * Finished my To do list project
+
 ## May 2, 2023
    Subject: OK Coders
    * Finished Saturday's class assignmenet and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
