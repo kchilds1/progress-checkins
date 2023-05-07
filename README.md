@@ -2,7 +2,7 @@
 
 ## May 5, 2023
    Subject: Practice
-   * Finished my To do list project
+   * Finished my [To do list project]https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/To-Do%20List
 
 ## May 2, 2023
    Subject: OK Coders
