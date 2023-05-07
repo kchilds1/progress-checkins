@@ -2,14 +2,14 @@
 
 ## May 5, 2023
    Subject: Practice
-   * Finished my [To do list project](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/To-Do%20List).
+   * Finished my [To do list project](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/To-Do%20List)
 
 ## May 2, 2023
    Subject: OK Coders
-   * Finished Saturday's class assignmenet and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
+   * Finished Saturday's class assignment and pushed it to [github](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class)
 ## May 1, 2023
    Subject: OK Coders 
-   * Completed  part 1 of Saturday's class and pushed it to https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class
+   * Completed  part 1 of Saturday's class and pushed it to [github](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Module-2/Day-8/in-class)
 
 ## April 29, 2023
    Subject: OK Coders Day-8
@@ -76,7 +76,7 @@
    Subject: OK Coders class
    * Building a Shopping Cart with JavaScript
    * Review over Day 5 Pre-Work
-   * Went over https://content.codecademy.com/practice/art-for-practice/new-pngs/Boolean-operators-dk.png
+   * Went over [Art for practice](https://content.codecademy.com/practice/art-for-practice/new-pngs/Boolean-operators-dk.png)
    * FizzBuzz exercise
    
 ## April 18, 2023
@@ -104,12 +104,12 @@
 
 ## April 14, 2023
    Subject: Pre-work for day 4
-   *  Finished - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
+   *  Finished - [jquery lesson](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery)
    *  Reviewed basic JavaScript on freecodecamp.org and apply my knowledge in creating a To-do list
 
 ## April 13, 2023
    Subject: pre-work homework for day 4
-   *  Started - https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery
+   *  Started - [jquery lesson](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery)
 
 ## April 12, 2023
    Subject: OK Coders class
