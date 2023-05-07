@@ -1,7 +1,11 @@
 ### progress-checkins
 
+## May 7, 2023
+   Subject: Practicing JavaScript
+   * Started building an expense tracker in JavaScript
+
 ## May 5, 2023
-   Subject: Practice
+   Subject: Practicing JavaScript
    * Finished my [To do list project](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/To-Do%20List)
 
 ## May 2, 2023
