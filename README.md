@@ -2,7 +2,7 @@
 
 ## May 9, 2023
    Subject: Practicing JavaScript
-   * Finished building the expense tracker started on May 7, 2023
+   * Finished building the [expense tracker](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/Expense%20tracker) started on May 7, 2023 
 
 ## May 7, 2023
    Subject: Practicing JavaScript
