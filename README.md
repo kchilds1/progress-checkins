@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## May 9, 2023
+   Subject: Practicing JavaScript
+   * Finished building the expense tracker started on May 7, 2023
+
 ## May 7, 2023
    Subject: Practicing JavaScript
    * Started building an expense tracker in JavaScript
