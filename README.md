@@ -1,5 +1,30 @@
 ### progress-checkins
 
+## May 11, 2023
+   Subject OK Coders Homework found on [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+   - Compare Scopes of the var and let Keywords
+   - Mutate an Array Declared with const
+   - Prevent Object Mutation
+   - Use Arrow Functions to Write Concise Anonymous Functions
+   - Write Arrow Functions with Parameters
+   - Set Default Parameters for Your Functions
+   - Use the Rest Parameter with Function Parameters
+   - Use the Spread Operator to Evaluate Arrays In-Place
+   - Use Destructuring Assignment to Extract Values from Objects
+   - Use Destructuring Assignment to Assign Variables from Objects
+   - Use Destructuring Assignment to Assign Variables from Nested Objects
+   - Use Destructuring Assignment to Assign Variables from Arrays
+   - Destructuring via rest elements
+   - Use Destructuring Assignment to Pass an Object as a Function's Parameters
+   - Create Strings using Template Literals
+   - Write Concise Object Literal Declarations Using Object Property Shorthand
+   - Write Concise Declarative Functions with ES6
+
+## May 10, 2023
+   Subject OK Coders class
+   * Bootcamp explained how JavaScript can be used on the backend using nodejs
+   * http and file reader api
+
 ## May 9, 2023
    Subject: Practicing JavaScript
    * Finished building the [expense tracker](https://github.com/kchilds1/OKCoders-exercises-and-modules/tree/main/Practice/Expense%20tracker) started on May 7, 2023 
