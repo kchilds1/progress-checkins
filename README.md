@@ -21,7 +21,7 @@
    - Write Concise Declarative Functions with ES6
 
 ## May 10, 2023
-   Subject OK Coders class
+   Subject: OK Coders class
    * Bootcamp explained how JavaScript can be used on the backend using nodejs
    * http and file reader api
 
