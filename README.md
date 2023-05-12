@@ -1,7 +1,7 @@
 ### progress-checkins
 
 ## May 11, 2023
-   Subject OK Coders Homework found on [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
+   Subject: OK Coders Homework found on [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
    - Compare Scopes of the var and let Keywords
    - Mutate an Array Declared with const
    - Prevent Object Mutation
