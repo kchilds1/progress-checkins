@@ -1,5 +1,28 @@
 ### progress-checkins
 
+## May 15, 2023
+   Subject: OK Coders Homework
+   - Everything in here: [debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
+   - Everything in here: [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+
+## May 13, 2023
+   Subject: OK Coders class
+   - Arrow Functions
+   - Methods
+   - Chatgpt
+   - Destructuring
+   - Command Line and Node
+   - Navigating Git Bash
+   - Running node script
+
+## May 12, 2023
+   Subject: Attended 200OK Conference
+   - Shailvi Wakhlu: Preventing, Diagnosing & Curing Bad Data 
+   - Jenny Truong: State Machines for Your Mental State
+   - Ed Schaefer - A Non-technical Intro to Domain Driven Design
+   - Amy Norris - Competence is Overrated 
+   - Luke Crouch: 5 Hacker Stories(and how to NOT be the 6th)
+   
 ## May 11, 2023
    Subject: OK Coders Homework found on [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#es6)
    - Compare Scopes of the var and let Keywords
