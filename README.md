@@ -1,5 +1,9 @@
 ### progress-checkins
 
+## May 16, 2023
+   Subject: OK Coders Homework
+   - Everything in here: [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+
 ## May 15, 2023
    Subject: OK Coders Homework
    - Everything in here: [debugging](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#debugging)
