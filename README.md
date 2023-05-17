@@ -2,7 +2,7 @@
 
 ## May 17, 2023
    Subject: OK Coders class and Homework
-   -Access Property Names with Bracket Notation to Modify an Array Stored in an Object of: [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+   - Access Property Names with Bracket Notation to Modify an Array Stored in an Object of: [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 
 
 ## May 16, 2023
