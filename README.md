@@ -2,7 +2,7 @@
 
 ## May 16, 2023
    Subject: OK Coders Homework
-   - Everything in here: [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
+   - Use an Array to Store a Collection of Data to Modify an Object Nested Within an Object of:  [Basic Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-data-structures)
 
 ## May 15, 2023
    Subject: OK Coders Homework
